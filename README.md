@@ -25,10 +25,14 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 <img width="548" alt="Screenshot 2024-12-11 at 4 02 35 PM" src="https://github.com/user-attachments/assets/7ec8a20e-09b0-4042-a159-6e0d4e961e32" />
 
 1. Follow the Fritzing diagram above when wiring the components.
+   
 2. Before attaching the force sensors to the breadboard, you should solder extension wires and M-M header pins to the clincher connectors. Add heatshrink over these new connections to strengthen them. Then attach the clincher connectors to the force sensors. This is so that the force sensors can be placed inside the stuffed animal's paws. I would also recommend adding tape every about half inch so that the extended wires do not get tangled; the image below is from before I added the tape and as you see the wires are a bit messy and can easily get tangled. 
 <img width="548"  src="https://github.com/user-attachments/assets/54283929-688b-4f3b-a3da-86e77b30c3d2" />
 
 ### Code 
+1. Download the forcesensor.ino file from the Arduino-Sleepy-Stuffy folder. Upload this program onto your ESP32.
 
+2. Download the files from the Sleepy-Stuffy folder. Note you may have to change line 60 in SleepyStuffy.pde so that it reflects the correct port name for your ESP32. Make sure all audio files are in the same folder as the pde file.
 
 ### Enclosure 
+1. 
