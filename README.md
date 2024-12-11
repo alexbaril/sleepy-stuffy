@@ -35,4 +35,15 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 2. Download the files from the Sleepy-Stuffy folder. Note you may have to change line 60 in SleepyStuffy.pde so that it reflects the correct port name for your ESP32. Make sure all audio files are in the same folder as the pde file.
 
 ### Enclosure 
-1. 
+1. Procure a medium sized stuffed animal. You are going to need to place the breadboard inside it, so I would recommend one that has a zipper on its side. Also make sure the paws are big enough to fit the circular part of the force sensors.
+   
+2. Unstitch the paws from the stuffed animal.
+
+3. Place the electronics inside the stuffed animal. You may need to remove some stuffing. Feed the wires attached to the clincher connectors through so they are sticking out where the paws used to be attached. I found that disconnecting the clincher connectors from the force sensors was helpful for this step. Once the wires were sticking out, I then again attached the clincher connectors to the force sensors.
+
+4. Zip up the side where the breadboard is placed leaving a bit of space so that you can plug in the USB-C cable.
+
+5. Remove the sticker back from the force sensors and stick them to the inside of the paws.
+
+6. Resew the paws on the stuffed animal.
+
