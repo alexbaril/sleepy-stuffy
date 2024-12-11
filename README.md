@@ -5,6 +5,8 @@ The goal of this project was to create a stuffed animal that plays music from a 
 
 To learn more, take a look at my [blog post](https://diamond-bovid-ab4.notion.site/Sleepy-Stuffy-159f9793688a8057ae60ee97d9da9bd6?pvs=4).
 
+## References 
+This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O helped guide my materials selection, code, and wiring. 
 
 ## Materials 
 + ESP32 TTGO T-display
