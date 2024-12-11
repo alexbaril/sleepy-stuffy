@@ -30,4 +30,5 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 
 ### Code 
 
+
 ### Enclosure 
