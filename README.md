@@ -4,7 +4,14 @@
 
 
 ## Materials 
-
++ ESP32 TTGO T-display
++ [Force Sensors] (https://www.amazon.com/dp/B0D2K6TVLT?&linkCode=sl1&tag=zlufy-20&linkId=26d261d15dd229a10de99e30bdbb5997&language=en_US&ref_=as_li_ss_tl)
++ [Clincher Connectors] (https://www.sparkfun.com/products/14195)
++ [10kΩ Resistors] (https://www.sparkfun.com/products/11508) 
++ [Half-Size Breadboard] (https://www.amazon.com/DIYables-Half-Size-Breadboard-Arduino-Raspberry/dp/B0BXKM8DQ8?ref_=ast_sto_dp&th=1&psc=1)
++ M-M Header Pins
++ Wires
++ Heatshrink
 
 ## Instructions 
 
