@@ -12,6 +12,7 @@ The goal of this project was to create a stuffed animal that plays music by sque
 + M-M Header Pins
 + Wires
 + Heatshrink
++ Stuffed Animal
 
 ## Instructions 
 
