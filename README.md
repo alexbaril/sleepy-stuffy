@@ -44,6 +44,7 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 
 5. Zip up the side where the breadboard is placed leaving a bit of space so that you can plug in the USB-C cable.
 <img width="548"  src="https://github.com/user-attachments/assets/ce204e97-2627-4aec-8077-ff20e4b04207" />
+
 6. Remove the sticker back from the force sensors and stick them to the inside of the paws.
 
 7. Resew the paws on the stuffed animal.
