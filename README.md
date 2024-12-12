@@ -1,5 +1,7 @@
 # Sleepy Stuffy
 
+![ezgif com-video-to-gif-converter-3](https://github.com/user-attachments/assets/66798379-7ea0-4fae-92b4-eb5512402937)
+
 ## About 
 The goal of this project was to create a stuffed animal that plays music from a computer by squeezing its paws. The user presses the front left paw to pause and play the songs. The user presses the front right paw to switch to the next song; the user can only switch songs while the music is currently playing. Force sensors are used to detect the squeezing of the paws. The ESP32 is used for collection of sensor data and serial communication. Processing is used to produce the audio. 
 
