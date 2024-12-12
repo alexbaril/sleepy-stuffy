@@ -52,4 +52,8 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 7. Resew the paws on the stuffed animal.
 ![IMG_7381](https://github.com/user-attachments/assets/61e9b90e-8e23-4655-8449-ecf959026464)
 
+## Video 
+To watch a demo of the project, check out this [link](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=428e70c7-9a14-4eb5-832f-b2440107ce50)!
+
+
 
