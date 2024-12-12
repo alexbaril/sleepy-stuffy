@@ -41,10 +41,9 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 
 3. Place the electronics inside the stuffed animal. You may need to remove some stuffing. Feed the wires attached to the clincher connectors through so they are sticking out where the paws used to be attached. I found that disconnecting the clincher connectors from the force sensors was helpful for this step. Once the wires were sticking out, I then again attach the clincher connectors to the force sensors.
 ![IMG_7365](https://github.com/user-attachments/assets/152a6ff6-0d59-4fc7-98a1-851226370a61)
-<img width="548"  src="https://github.com/user-attachments/assets/ce204e97-2627-4aec-8077-ff20e4b04207" />
 
 5. Zip up the side where the breadboard is placed leaving a bit of space so that you can plug in the USB-C cable.
-
+<img width="548"  src="https://github.com/user-attachments/assets/ce204e97-2627-4aec-8077-ff20e4b04207" />
 6. Remove the sticker back from the force sensors and stick them to the inside of the paws.
 
 7. Resew the paws on the stuffed animal.
