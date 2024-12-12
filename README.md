@@ -48,4 +48,6 @@ This [tutorial](https://esp32io.com/tutorials/esp32-force-sensor) from ESP32 I/O
 6. Remove the sticker back from the force sensors and stick them to the inside of the paws.
 
 7. Resew the paws on the stuffed animal.
+![IMG_7381](https://github.com/user-attachments/assets/61e9b90e-8e23-4655-8449-ecf959026464)
+
 
